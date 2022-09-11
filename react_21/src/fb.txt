@@ -1,0 +1,8 @@
+// db
+// https://project-1-a6e77-default-rtdb.firebaseio.com/{:dbName}.json
+// su
+// https://identitytoolkit.googleapis.com/v1/accounts:signUp?key=[API_KEY]
+// si
+// https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=[API_KEY]
+// cp
+// https://identitytoolkit.googleapis.com/v1/accounts:update?key=[API_KEY]

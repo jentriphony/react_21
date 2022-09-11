@@ -1,0 +1,13 @@
+.loading {
+  position: fixed;
+  width: 4rem;
+  height: 4rem;
+  border: 2px solid black;
+  border-top-color: white;
+  border-radius: 64%;
+  animation: loading 2s linear infinite;
+}
+@keyframes loading {
+  0% {transform: rotate(0deg);}
+  100% {transform: rotate(360deg);}
+}
